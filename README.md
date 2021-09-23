@@ -7,7 +7,7 @@ Created by a group of 9 students:
 • Bartosz Samulski ( bas17) - Team Leader / Former Deputy Team Leader (ME, THIS GITHUB'S OWNER) <br />
 • Rishabh Kumar (rik7) - Deputy Leader <br /> 
 • James Charles Willis (jcw14) - Former Team Leader <br />
-• Ben Phillips (bep40) - QA Manager <br />
+• Ben Phillips (bep40) - QA Manager / GitLab Manager <br />
 • Bartek Skrobucha (bas21) - Deputy QA <br />
 • Ryan Bloor-Walsh (ryb11) <br />
 • Federico Comitini (fec11) <br />
