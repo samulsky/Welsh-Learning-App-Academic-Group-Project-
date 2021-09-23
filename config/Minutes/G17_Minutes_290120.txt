@@ -1,0 +1,53 @@
+CS221 Project: Group Project 17
+Meeting: Weekly Project Meeting
+
+Persons present: All project members 
+
+Place and date of meeting: D59 Hugh Owen, Wednesday 29th January 2020, 10:10am
+
+Circulation list: All project members, plus project manager
+Author: Andy Starr
+Date of minutes: 29th January 2020
+Version: 1.0
+
+Matters arising:
+===========
+
+None - first meeting of group
+
+New business:
+===========
+
+1. Membership of group
+SurnameForenamesEmailBarclay-KnightBrandonbrb19ÿÿÿÿBloor-WalshRyanryb11ÿÿÿÿBorkaJurajjub27ÿÿÿÿComitiniFedericofec11ÿÿÿÿKumarRishabhrik7ÿÿÿÿPhillipsBenbep40ÿÿÿÿSamulskiBartoszbas17ÿÿÿÿSkrobuchaBartekbas21ÿÿÿÿWillisJames Charlesjcw14ÿÿÿÿ
+Manager: Andy Starr, email: aos
+
+2. Photos of group
+
+Photos were taken of the group members? read for the blog webpage. Action: bas21
+
+
+3. Setting up the project arrangements
+
+3.1 All group members need to read the Project requirements and Group Intro documents by next week and know about what the project will do. ACTION: Everyone
+
+3.2 All group members to set up a personal blog TODAY and email a link to their blog to James (jcw14). ACTION: Everyone
+James will set up a clickable list so we can see everyone?s blogs. ACTION: jcw14
+
+3.3 All group members to update their personal blog by 1pm Tuesday each week. ACTION: Everyone
+
+3.4 Group chat ? group decided against sharing personal mobile numbers. An online group chat will be agreed and set up at the next meeting.  Action: Everyone.
+
+4. Initial Tasks
+
+4.1 Brandon and Frederico will read SE.QA.04 and start work on material for the user interface document. They will look at the needs of the document containing the use cases and will start putting together some possible screens in Powerpoint. ACTION: brb19, fec11
+
+4.2 Ben and Ryan will read SE.QA.06 and start drafting a list of repeatable tests. ÿ ACTION:  bep40, ryb11
+
+4.3ÿJuraj and Bartek will consider the system architecture. As part of this they will figure out how to read the JSON list provided on Blackboard, and how to write it an updated version of it back to a file. ACTION: jub27, bas21.
+
+4.4 Bart will look at how to use JavaFx to generate a sample UI.  One possibility might be a screen to take in the description of a new word to add, and how to use it to display a long list of words. ACTION: bas17.
+
+4.5 James and Rishabh will look at documents SE.QA01, SE.QA.02, SE.QA.03 before next week and come along ready to summarise them in 5 minutes for the group. ACTION: jcw14, ric7
+
+

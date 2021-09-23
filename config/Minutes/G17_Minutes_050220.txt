@@ -1,0 +1,68 @@
+CS221 Project: Group Project 17
+Meeting: Weekly Project Meeting
+Place and date of meeting: D59 Hugh Owen, Wednesday 5th February 2020, 10:10am – 11:00am
+
+
+Person Present: All project members
+
+Circulation list: All project members, plus project manager
+Author: Rishabh Kumar
+Date of minutes: 05th February 2020
+Version: 2.0
+
+
+
+
+Matter Arising:
+====================
+
+3.1 All group members need to read the Project 
+requirements and Group Intro documents by next 
+week and know about what the project will do.
+Action: Everyone
+Status: COMPLETED
+3.2 All group members to set up a personal blog TODAY
+Action: Jcw14, ryb11
+Status: ONGOING
+3.3 All group members warned about not updating their 
+blogs.
+Action: Everyone
+Status: ONGOING
+3.4 Group has agreed on to use Discord for 
+communication.
+Action: Everyone
+Status: ONGOING
+4.1 James and Rishabh to verify requirements and add-
+on relevant material to the user interface 
+document.
+Action: Jcw14, rik7
+Status: ONGOING
+4.2 Ryan needs to catch-up and read the assigned 
+documents.
+Action: Ryb11
+Status: ONGOING
+4.3 Requires more communication between Juraj and 
+Bartek. Both produced separate documents. Need 
+to agree on better method to follow.
+Action: Jub27, bas21
+Status: ONGOING
+4.4 Produce a sample Javafx document.
+Action: Bas17
+Status: ONGOING
+4.5 James and Rishabh will look at documents SE.QA01, 
+SE.QA.02, SE.QA.03.
+Action: Rik7, jcw14
+Status: COMPLETED
+
+New Business:
+===================
+
+1. Request for better room. Action: aos
+
+2. Modify the blog. Action Jcw14
+
+3. Set up Discord Server. Fec11
+
+4. Make a UML of the all graphics with functionalities. Action: fec11
+
+

@@ -1,0 +1,36 @@
+CS211 Project: Group Project 17 
+Meeting: UI Docuentation Review
+
+Persons present: All project members except James(jcw14) and Rishabh(rik7)
+
+Place and date of meeting: Training room 2nd Floor Hugh Owen Library,
+Thursday 20th February, 12:00 pm
+Length of meeting: 1 hour
+
+Circulation list: All project members and project manager
+Author: Ben Phillips
+Date of minutes: 20th February 2020
+Version:1.0
+
+Matters Arising - none
+========================
+New business:
+1.Remove 3 levels of difficulty
+
+2.First time use to trigger a tutorial pop up
+
+3.Change order menu button
+
+3.1 No more than 1 list of practice words
+
+3.2 Remove prev and next buttons from practice page
+
+3.3 Make so you can access practice from my words list
+
+3.4 Option for what order you want to practise in(English-Welsh/Welsh-English)
+
+4. Display any errors the user made at the end of practice
+
+4.1 Dictionary will have scroll bar only, remove prev and next buttons
+
+4.2 + Button trigger popup to complete word editor

@@ -1,0 +1,53 @@
+CS211 Project: Group Project 17 
+Meeting: Weekly Project Meeting
+
+People present:everyone but james(absent),federico(internet connection issues) and ryan(absent)
+
+Place and date of meeting:Discord Voice call,
+Wednesday 25th March 2020, 10:10am
+
+Circulation list: All project members and project manager
+Author: Ben Phillips
+Date of minutes: 25th March 2020
+Version:1.0
+
+Matters Arising:
+1.Prepare Architecture Doc 
+Action:rik7, jub27
+Status: COMPLETED
+
+2.Put prototype on gitlab
+Action:rik7
+Status: COMPLETED
+
+3.Fix remaining issues with GitLab repositories 
+Action:bep40
+Status:COMPLETED
+
+3.1Help finish architecture document
+Action:bas21
+Status: COMPLETED
+
+3.2Help design team by doing the component diagrams
+Action:brb19
+Status:COMPLETED
+
+3.3Carry out spike work
+Action:fec11
+Status:COMPLETED
+
+New Business:
+4. Setting up QA meeting for design spec doc
+   Action:bas21,bep40
+
+4.1 Re electing a new group leader
+   Action: Everyone
+
+4.2 Andy to get in touch with ryan
+   Action: Aos
+
+4.3 Rishabh to find a short tutorial on unit testing
+   Action: rik7
+
+4.4 New leader to allocate work for coding
+   Action:bas17

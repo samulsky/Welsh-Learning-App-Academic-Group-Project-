@@ -1,0 +1,10 @@
+Item                  |Configuration Reference|Name                         |Location 
+UI specification      |SE_G17_UI_DOC          |user interface spec1.1.pdf   |Folder docs/UI spec
+UI presentaion        |SE_G17_UI_PRES         |Presentation_UI_3.0.pptx     |Folder docs/UI spec
+Test specification    |SE_G17_TEST_DOC        |Testing_document.pdf         |Folder docs/Test spec
+Design specification  |SE_G17_DESIGN_DOC      |Design_specification.pdf     |Folder docs/Design spec
+End-of-project report |SE_G17_EndReport_DOC   |G17_EndReport.pdf            |Folder docs
+Test Report           |SE_G17_Test_Report     |Test_Report.pdf              |Folder docs/Test spec/Test reports
+Maintenance manual    |SE_G17_Maintenance_DOC |Maintenance_manual.pdf       |Folder docs/Maintenance
+Source code           |                       |WelshApp.zip                 |Folder src
+Unit tests            |                       |tests.zip                    |Folder src

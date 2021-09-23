@@ -1,0 +1,51 @@
+CS211 Project: Group Project 17 
+Meeting: Weekly Project Meeting
+
+Persons present: All project members except Ryan(ryb11) who was absent on medical grounds
+
+Place and date of meeting:E34 Llandinam,
+Wednesday 19th February 2020, 10:10am
+
+Circulation list: All project members and project manager
+Author: Ben Phillips
+Date of minutes: 19th February 2020
+Version:1.0
+
+Matters Arising:
+1. Produce a sample JavaFX document.
+Action: bas17
+Status: COMPLETED
+
+2. Build a preparation plan.
+Action: jcw14
+Status: COMPLETED
+
+3. Prepare UI document.
+Action: fec11,brb19
+Status: ONGOING 
+
+3.1 Prepare test document.
+Action: ryb11
+Status: ONGOING
+
+3.2 Prepare Architecture document.
+Action: jub27, rik7
+Status: ONGOING
+
+3.3 Read QA documents
+Action:bas21, bep40
+Status: COMPLETED
+
+3.4 Set up GitLab repository
+Action: ONGOING
+
+========================================
+
+New Business:
+1. Everyone to attend meeting for UI document at 12pm Thursday 20th
+
+2. Final UI documentation to be delivered on Wednesday 26th February
+
+3. Completed test document to be delivered ready for QA by Wednesday 26th February
+
+4. QA team to read documents 1,2,3,4,6,7,8

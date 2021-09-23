@@ -1,0 +1,85 @@
+CS221 Project: Group Project 17
+Meeting: Weekly Project Meeting
+
+Persons present: All project members 
+
+Place and date of meeting: D59 Hugh Owen, Wednesday 29th January 2020, 10:10am
+
+Circulation list: All project members, plus project manager
+Author: Bartosz Samulski
+Date of minutes: 12th February 2020
+Version: 1.0
+
+Matter Arising:
+====================
+1. Request for better room. 
+Action: aos
+Status: COMPLETED
+2. Modify the blog. 
+Action: Jcw14
+Status: COMPLETED
+3. Set up Discord Server.
+Action: Fec11
+Status: COMPLETED
+3.2 All group members to set up a personal blog TODAY
+Action: Jcw14, ryb11
+Status: COMPLETED
+3.3 All group members warned about not updating their 
+blogs.
+Action: Everyone
+Status: COMPLETED
+3.4 Group has agreed on to use Discord for 
+communication.
+Action: Everyone
+Status: COMPLETED
+4. Make a UML of the all graphics with functionalities. 
+Action: fec11
+Status: COMPLETED
+4.1 James and Rishabh to verify requirements and add-
+on relevant material to the user interface 
+document.
+Action: Jcw14, rik7
+Status: COMPLETED
+4.2 Ryan needs to catch-up and read the assigned 
+documents.
+Action: Ryb11
+Status: COMPLETED
+4.3 Requires more communication between Juraj and 
+Bartek. Both produced separate documents. Need 
+to agree on better method to follow.
+Action: Jub27, bas21
+Status: COMPLETED
+4.4 Produce a sample Javafx document.
+Action: bas17
+Status: ONGOING
+
+
+New Business:
+===================
+
+1. Electing positions :
+Project Leader : jcw14
+Deputy Project Leader : bas17
+Quality Assurance Manager : bep40
+Deputy QA Manager : bas21
+Status : COMPLETED
+
+2. Build up Preparation Plan
+Action: jcw14
+
+3. Prepare User Interface document
+Action: fec11, brb19
+
+4. Prepare Test document
+Action: ryb11 
+
+5. Prepare Architecture document 
+Action: jub27, rik7, 
+
+6. Read QA documents
+Action: bas21, bep40
+
+7. Set up GitHub repository
+Action: bep40,
+
+

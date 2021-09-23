@@ -1,0 +1,70 @@
+CS21120 Project: Group Project 17 
+Meeting: Weekly Project Meeting
+
+Persons present: Project manager, Bas21, Bas17, bep40, fec11, brb19,
+ryb11 and jub27 made us aware of non attendance before meeting,
+rik17 turned up late,
+jcw14 didnt show up
+
+Place and date of meeting:E34 Llandinam,
+Wednesday 26th February 2020, 10:10am
+
+Circulation list: All project members and project manager
+Author: Ben Phillips
+Date of minutes: 26th February 2020
+Version:1.0
+
+Matters Arising:
+3. Prepare UI document for hand in
+Action:fec11, brb19
+Status: COMPLETED
+
+3.1 Prepare test document for QA
+Action:ryb11
+Status: COMPLETED
+
+3.2 Prepare Architecture documentation
+Action:jub27, rik17
+Status: ONGOING
+
+3.3 Set up GitLab Repository
+Action:bep40
+Status: COMPLETED
+
+3.4 Everyone to attend meeting for UI document at 12pm Thursday 20th
+Action: Everyone
+Status: COMPLETED
+
+4. Final UI documentation to be delivered on Wednesday 26th February
+Action:brb19,fec11
+Status COMPLETED
+
+4.1 Completed test document to be delivered ready for QA by Wednesday 26th February
+Action: ryb11
+Status:COMPLETED
+
+4.2 QA team to read documents 1,2,3,4,6,7,8
+Action:bas21,bep40
+Status:COMPLETED
+
+New Business:
+1. Frequently upload and update GitLab docs
+Action: Eveyone
+2. Add Chris Price to GitLab
+Action: bep40
+3. Find out if test plan isready for QA
+Action: bas17, ryb11
+3.1 Make QA plan
+Action: bas17
+3.2 QA to read document 5
+Action:bas21,bep40
+3.3 Update blogs
+Action:brb19,fec11,jcw14
+3.4 QA to fix Gitlab directories
+Action:bep40,bas21
+4. Team leader and deputy to communicate and share meeting plan
+Action:bas17,jcw14
+4.1 Make alterations of UI documentation after review
+Action:brb19,fec11
+
+

@@ -1,0 +1,57 @@
+CS211 Project: Group Project 17 
+Meeting: Weekly Project Meeting
+
+Persons present: All project members except Ryan(ryb11)and Bartek(bas17) who were absent
+
+Place and date of meeting:E34 Llandinam,
+Wednesday 11th March 2020, 10:10am
+
+Circulation list: All project members and project manager
+Author: Ben Phillips
+Date of minutes: 11th March 2020
+Version:1.0
+
+Matters Arising:
+1. Prepare Architecture Documentation 
+Action:rik7, jub27
+Status: ONGOING
+
+2. Update blogs
+Action: Jcw14, ryb11
+Status: COMPLETED
+
+3 Make changes to UI document 
+Action: brb19, fec11
+Status: COMPLETED
+
+3.1 Make plan to ensure architecture documentation is ready to be delivered
+Action: jcw14
+Status: COMPLETED
+
+3.2 Make plan before the weekend and release onto GitLab
+Action: jcw14
+Status: COMPLETED
+
+3.3 Raise issues from UI document in GitLab
+Action: bas21
+Status: COMPLETED
+
+3.4 QA team to read Design Specification document
+Action: bas21,bep40
+Status: COMPLETED
+
+New Business:
+4. Put prototype of app on GitLab for everyone to assess
+Action: rik7
+
+4.1 Fix remaining issues with GitLab repositories
+Action: bep40
+
+4.2 Help finishing the design spec document
+Action: bas21
+
+4.3 Help design team by doing the component diagrams
+Action: brb19
+
+4.4 Carry out some spike work
+Action: fec11
