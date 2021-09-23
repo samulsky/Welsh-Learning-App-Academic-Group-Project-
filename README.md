@@ -15,9 +15,9 @@ Created by a group of 9 students:
 • Brandon Barclay-Knight (brb19) <br />
 
 The application provides the following features:
-• Facility to load an Welsh-English dictionary and look up words in either language
-• Ability to add extra words to the dictionary
-• A way of marking words as ones that the learner wishes to practise and learn
-• A way of deleting a word from the practice list once the learner feels they have learned the word
-• The ability to review the words that the learner is practising
-• Different ways for the user to test themselves on the words they are learning
+• Facility to load an Welsh-English dictionary and look up words in either language <br />
+• Ability to add extra words to the dictionary <br />
+• A way of marking words as ones that the learner wishes to practise and learn <br />
+• A way of deleting a word from the practice list once the learner feels they have learned the word <br />
+• The ability to review the words that the learner is practising <br />
+• Different ways for the user to test themselves on the words they are learning <br />
