@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="uk.ac.aber.cs211.group17.welshapp.PracticeController">
+   <center>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <top>
+            <AnchorPane prefHeight="80.0" prefWidth="600.0" style="-fx-background-color: B1EC91;" BorderPane.alignment="CENTER">
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+               <children>
+                  <Button layoutX="15.0" layoutY="15.0" mnemonicParsing="false" onAction="#goDictionary" style="-fx-background-color: E9FFDD;" text="Dictionary" />
+                  <Button layoutX="545.0" layoutY="15.0" mnemonicParsing="false" onAction="#Exit" style="-fx-background-color: E9FFDD;" text="Exit" />
+                  <Text layoutX="266.0" layoutY="34.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Practice" textAlignment="CENTER">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="215.0" layoutY="60.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select practice mode ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+         </top>
+         <center>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: B1EC91;" BorderPane.alignment="CENTER">
+               <children>
+                  <Button layoutX="89.0" layoutY="14.0" mnemonicParsing="false" onAction="#goFlashcards" prefHeight="100.0" prefWidth="140.0" style="-fx-background-color: E9FFDD;" text="Flashcards" />
+                  <Button layoutX="370.0" layoutY="153.0" mnemonicParsing="false" onAction="#goMatchWord" prefHeight="100.0" prefWidth="140.0" style="-fx-background-color: E9FFDD;" text="Match Words" />
+                  <Button layoutX="89.0" layoutY="153.0" mnemonicParsing="false" onAction="#goTranslateWord" prefHeight="100.0" prefWidth="140.0" style="-fx-background-color: E9FFDD;" text="Translate Word" />
+                  <Button layoutX="370.0" layoutY="14.0" mnemonicParsing="false" onAction="#goGuessWord" prefHeight="100.0" prefWidth="140.0" style="-fx-background-color: E9FFDD;" text="Guess the word" />
+               </children>
+            </AnchorPane>
+         </center>
+         <bottom>
+            <AnchorPane prefHeight="41.0" prefWidth="600.0" style="-fx-background-color: B1EC91;" BorderPane.alignment="CENTER">
+               <children>
+                  <Button layoutX="14.0" layoutY="2.0" mnemonicParsing="false" onAction="#goBack" style="-fx-background-color: E9FFDD;" text="Back" />
+               </children></AnchorPane>
+         </bottom>
+      </BorderPane>
+   </center>
+</BorderPane>
