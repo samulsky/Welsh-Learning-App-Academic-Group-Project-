@@ -1,0 +1,31 @@
+LOADING
+For loading of the dictionary the application will take a json file as input. The default for this is the dictionary.json 
+provided by the client, however when the user adds a new word to the dictionary a new json file that includes the
+added word will by created and used when loading the dictionary. This is to ensure that the user is able to save new
+words and that they appear in the dictionary when the app is luached again. The default file will remain unchanged 
+and not overwritten so that if the new file is corrupted the application will be able to still load a dictionary.
+In order to read json files the application will use json-simple-1.1.jar.
+
+The JSONParser will be used to parse the file information into an JSONArray which contains the dictionary.
+Then the array will be iterated over and while there is a word in the array the iterator will loop over it.
+For each of the word a new Word object will be created which containts the Welsh and English translation and
+the word type. This Word object will be put into two maps, one English map and one Welsh map. The type of maps
+used is TreeMap, the reason for using the Tree version of the Map is that it is a soirted map which allows 
+for the words to be sorted alphabetically. There is a map for both English and Welsh due to the fact that
+the alphabetical order of the words will be different in the two languages and this makes it simpler to 
+do the ordering.
+
+Searching
+When seartching the user will choose to either search by Welsh or English, which will also select which map to use for
+searching the dictionary. After input form the user the system will check if the selected map contains the key which will be
+either the English or Welsh word. If the map contains the specified key it will return the word with all its attributes and
+if it does not contain the key then no word will appear.
+
+GuessTheWord
+The game where the user has to pick the correct translation of a word from their pratice list will chose a random word
+from the users list of word and will display it. This is done by using the Random utility class to generate random numbers which
+will correspon the the index of the words in the pratice list. Then the wortd with that index is chosen to be translated by
+the user. Four options will apear in either Welsh or English depending on what user choses. These will include the correct
+translation of the word and three randomly selected translations from the dictionary, which will be selected in a similar
+way to that of the word from the practice list. A correct selection will add a point to the score and an incorrect will not.
+The points are stored in an int and saved to enable them to see thier progress.
