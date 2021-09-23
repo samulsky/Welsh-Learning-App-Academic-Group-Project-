@@ -4,15 +4,15 @@ Java group project Welsh Learning App helps to learn welsh by providing a basic 
 
 Created by a group of 9 students:
 
-• Bartosz Samulski ( bas17) - Team Leader / Former Deputy Team Leader (ME, THIS GITHUB'S OWNER)
-• Rishabh Kumar (rik7) - Deputy Leader
-• James Charles Willis (jcw14) - Former Team Leader
-• Ben Phillips (bep40) - QA Manager
-• Bartek Skrobucha (bas21) - Deputy QA
-• Ryan Bloor-Walsh (ryb11)
-• Federico Comitini (fec11)
-• Juraj Borka (jub27)
-• Brandon Barclay-Knight (brb19)
+• Bartosz Samulski ( bas17) - Team Leader / Former Deputy Team Leader (ME, THIS GITHUB'S OWNER) <br />
+• Rishabh Kumar (rik7) - Deputy Leader <br /> 
+• James Charles Willis (jcw14) - Former Team Leader <br />
+• Ben Phillips (bep40) - QA Manager <br />
+• Bartek Skrobucha (bas21) - Deputy QA <br />
+• Ryan Bloor-Walsh (ryb11) <br />
+• Federico Comitini (fec11) <br />
+• Juraj Borka (jub27) <br />
+• Brandon Barclay-Knight (brb19) <br />
 
 The application provides the following features:
 • Facility to load an Welsh-English dictionary and look up words in either language
